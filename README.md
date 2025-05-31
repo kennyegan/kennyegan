@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Kenny 
 
-<!--
-**Egank2/Egank2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | 🤖 AI Researcher | 🛰️ Space-Obsessed Tinkerer  
+Striving to build things that **enhance humanity**, not just impress recruiters.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+
+- 🔭 Currently working as a **Software Development Intern at Capital Technology Group**, where I help build high-impact solutions with a startup mindset.
+- 🧪 My work spans satellites, finance bots, and projects I can’t publicly talk about (yet).
+- 🌱 Always learning — from quantum theory to React bugs I definitely caused myself.
+- 📚 I believe engineering should solve real problems and improve lives — not just hit benchmarks.
+
+---
+
+## 🔐 Current Projects
+
+While I keep a few public repos here to showcase my work, **some of my most exciting projects are currently private** due to:
+- ✨ Early-stage secrecy
+- 🤝 Client confidentiality
+
+So if things look quiet... they’re not. I’m just **plotting something bigger**. Stay tuned.
+
+---
+
+## 💬 Let's Connect
+
+Feel free to reach out if you’re:
+- Into AI, space tech, or ethical hacking of productivity
+- Looking to collaborate on meaningful software
+
+
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/kenneth-egan2005/)
+
