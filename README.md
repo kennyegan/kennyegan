@@ -30,10 +30,6 @@ So if things look quiet... they’re not. I’m just **plotting something bigger
 Feel free to reach out if you’re:
 - Into AI, space tech, or ethical hacking of productivity
 - Looking to collaborate on meaningful software
-
-
-
----
-
+  
 📫 [LinkedIn](https://www.linkedin.com/in/kenneth-egan2005/)
 
