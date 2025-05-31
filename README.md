@@ -10,7 +10,7 @@ Striving to build things that **enhance humanity**, not just impress recruiters.
 
 - 🔭 Currently working as a **Software Development Intern at Capital Technology Group**, where I help build high-impact solutions with a startup mindset.
 - 🧪 My work spans satellites, finance bots, and projects I can’t publicly talk about (yet).
-- 🌱 Always learning — from quantum theory to React bugs I definitely caused myself.
+- 🌱 Always learning — from quantum theory to React bugs.
 - 📚 I believe engineering should solve real problems and improve lives — not just hit benchmarks.
 
 ---
