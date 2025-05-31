@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kenny 
 
-🚀 Software Engineer | 🤖 AI Researcher | 🛰️ Space-Obsessed Tinkerer  
+🚀 Software Engineer | 🤖 AI Researcher  
 Striving to build things that **enhance humanity**, not just impress recruiters.
 
 ---
