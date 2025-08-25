@@ -14,33 +14,7 @@ Striving to build things that **enhance humanity**, not just impress recruiters.
 
 ---
 
-## ❤️ My Companies
 
-<p align="center">
-  <a href="https://github.com/Fincept">
-    <img src="https://avatars.githubusercontent.com/u/227295391?v=4" width="150" alt="Fincept logo"/>
-  </a>
-  <a href="https://github.com/Strive-Technology-Group">
-    <img src="https://avatars.githubusercontent.com/u/228588071?v=4" width="150" alt="StriveTG logo"/>
-  </a>
-</p>
-
-- **[Fincept](https://github.com/Fincept)** → Building the future of personal finance with AI.  
-- **[Strive Technology Group](https://github.com/Strive-Technology-Group)** → A tech agency bringing modern solutions to real businesses.  
-
----
-
-## 🔬 Open Source Research
-
-<p align="center">
-  <a href="https://github.com/SycBench">
-    <img src="https://avatars.githubusercontent.com/u/186090620?v=4" width="150" alt="SycBench logo"/>
-  </a>
-</p>
-
-- **[SycBench](https://github.com/SycBench)** → Open-source research to evaluate & mitigate AI sycophancy.  
-
----
 
 ## 🔐 Current Projects
 
